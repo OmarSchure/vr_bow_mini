@@ -1,0 +1,85 @@
+# Build intermediates and binaries
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+# User-specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Visual Studio Code settings
+.vscode/
+
+# Build output
+*.VC.db
+*.VC.opendb
+
+# Compiled source files
+*.dll
+*.exe
+*.pdb
+*.app
+*.dSYM
+*.lib
+*.obj
+*.o
+
+# Auto-generated project files
+*.xcodeproj
+*.xcworkspace
+*.xcuserdata
+*.opensdf
+*.sdf
+*.ipch
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Windows Thumbnails
+Thumbs.db
+
+# Crash reports
+*.dmp
+
+# Generated files
+*.generated.*
+
+# Unreal Engine specific
+*.opensdf
+*.sdf
+*.tmp
+*.cache
+*.csproj
+*.vcxproj
+*.sln
+*.suo
+
+# Ignore local configuration
+Config/DefaultEditor.ini
+Config/DefaultEditorSettings.ini
+
+# Optional: if you use Rider
+.idea/
+
+# Optional: if you use CLion
+.cmake/
+
+# Optional: ignore local launcher config
+*.uplugin
+*.uprojectdirs
+*.uproject.sln
+*.uproject
+
+# Optional: ignore packaged builds
+Build/
+
+# Optional: if you want to keep Plugins/Source only
+Plugins/**/Binaries/
+Plugins/**/Intermediate/
+Plugins/**/Saved/
