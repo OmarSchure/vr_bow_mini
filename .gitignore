@@ -64,18 +64,6 @@ Thumbs.db
 Config/DefaultEditor.ini
 Config/DefaultEditorSettings.ini
 
-# Optional: if you use Rider
-.idea/
-
-# Optional: if you use CLion
-.cmake/
-
-# Optional: ignore local launcher config
-*.uplugin
-*.uprojectdirs
-*.uproject.sln
-*.uproject
-
 # Optional: ignore packaged builds
 Build/
 
