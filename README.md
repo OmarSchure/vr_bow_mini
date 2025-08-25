@@ -20,3 +20,5 @@
 - [arrow](https://freesound.org/people/arcandio/sounds/347884/)
   - reload
 - [bomb](https://freesound.org/people/eardeer/sounds/402007/)
+- [tutorial](https://freesound.org/people/Thunderman98/sounds/656180/)
+- [menu](https://freesound.org/people/Lost_Dream/sounds/435997/)
