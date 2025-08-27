@@ -22,3 +22,17 @@
 - [bomb](https://freesound.org/people/eardeer/sounds/402007/)
 - [tutorial](https://freesound.org/people/Thunderman98/sounds/656180/)
 - [menu](https://freesound.org/people/Lost_Dream/sounds/435997/)
+
+
+
+### Features
+- 3D sounds 
+  - ballon pop
+  - bomb explode
+  - arrow hit
+  - max height reach 
+    - self created
+- bow 
+  - own rigging
+  - own weightpainting
+  - own animation
